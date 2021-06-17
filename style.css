@@ -1,0 +1,26 @@
+.header_div img {
+    width: 150px;
+}
+
+h2 {
+    font-size: x-large;
+    font-family: 'Roboto', sans-serif;
+}
+
+b {
+    color: blue;
+    font-family: 'Comic Neue', cursive;
+}
+
+.img-responsive {
+    width: 200px;
+}
+
+span {
+    color: red;
+    font-family: 'Comic Neue', cursive;
+}
+
+h4,h5 {
+    font-family: 'Comic Neue', cursive;
+}
